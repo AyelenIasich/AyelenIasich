@@ -77,3 +77,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
+
+## 📩 Let's Connect!
+
+I'm always open to exciting opportunities and collaborations. Whether you're looking to hire a passionate Full Stack Developer or discuss a challenging project, feel free to reach out!
+
+- 🌐 **Explore My Portfolio**: [ayeleniasich.com](https://ayeleniasich.com/)
+- 📧 **Contact Me Directly**: [iasichayelen@gmail.com](mailto:iasichayelen@gmail.com)
+- 💼 **Check Out My LinkedIn**: [linkedin.com/in/ayeleniasich](https://linkedin.com/in/ayeleniasich)
+
+---
+
+Let’s build something amazing together!
